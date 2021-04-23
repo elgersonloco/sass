@@ -1,0 +1,29 @@
+$color-brand: #1E0DFF;
+$color-secondary: #1B121B;
+
+$color-black: rgb(0, 0, 0);
+$color-darkgray: #4d4d4d;
+$color-grey: #737373;
+$color-lightgrey: #bfbfbf;
+$color-white: rgb(255, 255, 255);
+
+// textures
+$color-alert: rgb(252, 228, 207);
+$color-error: rgb(218, 79, 73);
+$color-info: rgb(66, 184, 221);
+$color-success: rgb(91, 183, 91);
+
+
+//tipografia
+
+$basefont: 'Quicksand', sans-serif;
+$basefontSize: 16px;
+
+$buttonColor: $color-white;
+$buttonColorBackground: $color-brand;
+$buttonFontSize: $basefontSize * 1.5;
+
+// constants
+$borderRadius: 3px;
+$padding : 24px;
+$page-max-width: 800px;

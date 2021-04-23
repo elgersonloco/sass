@@ -1,0 +1,19 @@
+//BLOCK
+.btn {
+  display: inline-block;
+  color: $buttonColor;
+  background-color: $buttonColorBackground;
+  line-height: 2.5;
+  border-radius: $borderRadius;
+  font-size: $buttonFontSize;
+}
+
+  //ELEMENT
+  .btn__icon {
+    font-size: .6em;
+  }
+
+  //MODIFIER
+  .btn--warning {
+    background-color: $color-info;
+  }
